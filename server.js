@@ -424,3 +424,7 @@ app.get("/api/:name", (req, res) => {
     res.json(whiskies["Dry County"]);
   }
 });
+
+app.get("/api", (req, res) => {
+  res.json(whiskies);
+});
