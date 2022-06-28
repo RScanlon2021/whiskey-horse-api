@@ -10,37 +10,37 @@ const whiskies = {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 7.45
+    price: 7.45,
   },
-  'balmenach 2006': {
+  "balmenach 2006": {
     type: "Scotch",
     composition: "Single Malt",
     age: 8,
     vintage: 2006,
     percent: 46,
     origin: "Speyside",
-    price: 6.30
+    price: 6.3,
   },
   "balvenie caribbean cask": {
     type: "Scotch",
     composition: "Single Malt",
     age: 14,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 6.70
+    price: 6.7,
   },
-  balvenie : {
+  balvenie: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 5.75
+    price: 5.75,
   },
   "allt a bhainne": {
     type: "Scotch",
@@ -49,79 +49,79 @@ const whiskies = {
     vintage: 2006,
     percent: 46,
     origin: "Speyside",
-    price: 9.65
+    price: 9.65,
   },
-  "aultmore": {
+  aultmore: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 46,
     origin: "Speyside",
-    price: 6.80
+    price: 6.8,
   },
-  "cardhu": {
+  cardhu: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 6.50
+    price: 6.5,
   },
   "glenfarclas 10": {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 5.75
+    price: 5.75,
   },
   "glenfarclas 21": {
     type: "Scotch",
     composition: "Single Malt",
     age: 21,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 12.35
+    price: 12.35,
   },
   bennrinnes: {
     type: "Scotch",
     composition: "Single Malt",
     age: 15,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 5.50
+    price: 5.5,
   },
   glenfiddich: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 5.00
+    price: 5.0,
   },
   speyburn: {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 5.10
+    price: 5.1,
   },
   "macallan gold": {
     type: "Scotch",
     composition: "Single Malt",
     age: 21,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 6.30
+    price: 6.3,
   },
   "braeval 1995": {
     type: "Scotch",
@@ -130,151 +130,151 @@ const whiskies = {
     vintage: 1995,
     percent: 46,
     origin: "Speyside",
-    price: 9.30
+    price: 9.3,
   },
   glenlivet: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 5.20
+    price: 5.2,
   },
   craigellachie: {
     type: "Scotch",
     composition: "Single Malt",
     age: 13,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 46,
     origin: "Speyside",
-    price: 6.90
+    price: 6.9,
   },
   benromach: {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 57,
     origin: "Speyside",
-    price: 5.60
+    price: 5.6,
   },
-  'glen elgin': {
+  "glen elgin": {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 6.00
+    price: 6.0,
   },
-  'glen keith': {
+  "glen keith": {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 9.20
+    price: 9.2,
   },
-  'glen moray': {
+  "glen moray": {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 5.60
+    price: 5.6,
   },
   benriach: {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 4.70
+    price: 4.7,
   },
-  'glen spey': {
+  "glen spey": {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 6.80
+    price: 6.8,
   },
   glenburgie: {
     type: "Scotch",
     composition: "Single Malt",
     age: 7,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 48.4,
     origin: "Speyside",
-    price: 5.35
+    price: 5.35,
   },
   glendullan: {
     type: "Scotch",
     composition: "Single Malt",
     age: 17,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 50,
     origin: "Speyside",
-    price: 8.70
+    price: 8.7,
   },
   glenlossie: {
     type: "Scotch",
     composition: "Single Malt",
     age: 10,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 7.20
+    price: 7.2,
   },
   glentauchers: {
     type: "Scotch",
     composition: "Single Malt",
     age: 18,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 10.80
+    price: 10.8,
   },
   inchgower: {
     type: "Scotch",
     composition: "Single Malt",
     age: 14,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 7.20
+    price: 7.2,
   },
   kininvie: {
     type: "Scotch",
     composition: "Single Malt",
     age: 17,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 42.6,
     origin: "Speyside",
-    price: 30.90
+    price: 30.9,
   },
   knockando: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 4.90
+    price: 4.9,
   },
   linkwood: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 7.50
+    price: 7.5,
   },
   "longmorn distiller's choice": {
     type: "Scotch",
@@ -283,106 +283,106 @@ const whiskies = {
     vintage: 2004,
     percent: 40,
     origin: "Speyside",
-    price: 6.00
+    price: 6.0,
   },
-  "longmorn": {
+  longmorn: {
     type: "Scotch",
     composition: "Single Malt",
     age: 18,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 48,
     origin: "Speyside",
-    price: 9.40
+    price: 9.4,
   },
-  'macduff old particular': {
+  "macduff old particular": {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 48.4,
     origin: "Speyside",
-    price: 10.00
+    price: 10.0,
   },
   mannochmore: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 7.20
+    price: 7.2,
   },
   miltonduff: {
     type: "Scotch",
     composition: "Single Malt",
     age: 17,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 54.8,
     origin: "Speyside",
-    price: 8.30
+    price: 8.3,
   },
-  'mortlach rare old': {
+  "mortlach rare old": {
     type: "Scotch",
     composition: "Single Malt",
-    age: 'n/a',
-    vintage: 'n/a',
+    age: "n/a",
+    vintage: "n/a",
     percent: 43.4,
     origin: "Speyside",
-    price: 8.00
+    price: 8.0,
   },
   singleton: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 6.00
+    price: 6.0,
   },
   strathisila: {
     type: "Scotch",
     composition: "Single Malt",
     age: 15,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 56.4,
     origin: "Speyside",
-    price: 15.20
+    price: 15.2,
   },
   tamdhu: {
     type: "Scotch",
     composition: "Single Malt",
     age: 12,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 43,
     origin: "Speyside",
-    price: 4.90
+    price: 4.9,
   },
-  'tamnavulin double cask': {
+  "tamnavulin double cask": {
     type: "Scotch",
     composition: "Single Malt",
-    age: 'n/a',
-    vintage: 'n/a',
+    age: "n/a",
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 11.55
+    price: 11.55,
   },
   tomintoul: {
     type: "Scotch",
     composition: "Single Malt",
     age: 16,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 6.40
+    price: 6.4,
   },
   tormore: {
     type: "Scotch",
     composition: "Single Malt",
     age: 14,
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 40,
     origin: "Speyside",
-    price: 8.15
+    price: 8.15,
   },
   "buffalo trace": {
     type: "Bourbon",
@@ -390,11 +390,10 @@ const whiskies = {
     age: "6-8",
     percent: 40,
     origin: "Kentucky, USA",
-    composition: ,
   },
   redbreast: {
-    type: "Single Pot Still",
-    composition: "Single Malt",
+    type: "Irish Whiskey",
+    composition: "Single Pot Still",
     age: "12",
     percent: 40,
     origin: "Ireland",
@@ -403,7 +402,7 @@ const whiskies = {
     type: "Superdry",
     composition: "n/a",
     age: "0",
-    vintage: 'n/a',
+    vintage: "n/a",
     percent: 0,
     origin: "Knowhere",
   },
